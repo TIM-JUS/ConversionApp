@@ -4,7 +4,7 @@
              x:Class="TimApp.MainPage">
 
     <StackLayout Padding="20">
-        <Label Text="Conversión de Unidades Kenyi Timoteo" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+        <Label Text="Conversión de Unidades Kenyi Tim" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
 
         <!-- Entradas de valores -->
         <Entry x:Name="pesoEntry" Placeholder="Ingrese el peso en kg" />
