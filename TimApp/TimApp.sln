@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimApp.Android", "TimApp.Android\TimApp.Android.csproj", "{52922302-EBFF-42E7-9114-8EAF889BD684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimApp", "TimApp\TimApp.csproj", "{E731DEEB-FD0E-40D1-9C83-C946DD73D811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52922302-EBFF-42E7-9114-8EAF889BD684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52922302-EBFF-42E7-9114-8EAF889BD684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52922302-EBFF-42E7-9114-8EAF889BD684}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{52922302-EBFF-42E7-9114-8EAF889BD684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52922302-EBFF-42E7-9114-8EAF889BD684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52922302-EBFF-42E7-9114-8EAF889BD684}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E731DEEB-FD0E-40D1-9C83-C946DD73D811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E731DEEB-FD0E-40D1-9C83-C946DD73D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E731DEEB-FD0E-40D1-9C83-C946DD73D811}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E731DEEB-FD0E-40D1-9C83-C946DD73D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E731DEEB-FD0E-40D1-9C83-C946DD73D811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E731DEEB-FD0E-40D1-9C83-C946DD73D811}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EFA4AD-21DD-411F-A3CF-A48795FFE841}
+	EndGlobalSection
+EndGlobal

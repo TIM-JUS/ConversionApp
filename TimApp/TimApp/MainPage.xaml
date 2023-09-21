@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimApp.MainPage">
+
+    <StackLayout Padding="20">
+        <Label Text="Conversión de Unidades Kenyi Timoteo" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+
+        <!-- Entradas de valores -->
+        <Entry x:Name="pesoEntry" Placeholder="Ingrese el peso en kg" />
+        <Entry x:Name="volumenEntry" Placeholder="Ingrese el volumen en litros" />
+        <Entry x:Name="temperaturaEntry" Placeholder="Ingrese la temperatura en °C" />
+
+        <!-- Botones de conversión -->
+        <Button Text="Convertir Peso a Libras" Clicked="PesoButton_Clicked" />
+        <Button Text="Convertir Volumen a Galones" Clicked="VolumenButton_Clicked" />
+        <Button Text="Convertir Temperatura a °F" Clicked="TemperaturaButton_Clicked" />
+
+        <!-- Resultado de la conversión -->
+        <Label x:Name="resultadoLabel" FontSize="20" TextColor="Green" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+</ContentPage>

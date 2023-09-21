@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\bin\Debug\netstandard2.0\TimApp.deps.json
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\bin\Debug\netstandard2.0\TimApp.dll
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\bin\Debug\netstandard2.0\ref\TimApp.dll
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\bin\Debug\netstandard2.0\TimApp.pdb
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.dll
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\refint\TimApp.dll
+C:\Users\Alumno\Desktop\AppConversion\TimApp\TimApp\obj\Debug\netstandard2.0\TimApp.pdb
